@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorDemo", "BlazorDemo\Bl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo", "Todo\Todo.csproj", "{781E260A-D811-41FE-BBE2-ED5161146268}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkCore", "EntityFrameworkCore\EntityFrameworkCore.csproj", "{D9629AFC-7C03-4EF7-876A-89E283AC1460}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{781E260A-D811-41FE-BBE2-ED5161146268}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{781E260A-D811-41FE-BBE2-ED5161146268}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{781E260A-D811-41FE-BBE2-ED5161146268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9629AFC-7C03-4EF7-876A-89E283AC1460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9629AFC-7C03-4EF7-876A-89E283AC1460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9629AFC-7C03-4EF7-876A-89E283AC1460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9629AFC-7C03-4EF7-876A-89E283AC1460}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

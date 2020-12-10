@@ -82,6 +82,13 @@ using Data;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "H:\2020 DATA\Learning\BlazorDemo\BlazorDemo\Todo\Pages\Index.razor"
+using Todo.Component;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/")]
     public partial class Index : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -91,7 +98,7 @@ using Data;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 5 "H:\2020 DATA\Learning\BlazorDemo\BlazorDemo\Todo\Pages\Index.razor"
+#line 6 "H:\2020 DATA\Learning\BlazorDemo\BlazorDemo\Todo\Pages\Index.razor"
       
     private List<TodoItem> _data;
     private string _current;
