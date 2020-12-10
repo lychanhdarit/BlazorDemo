@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GB8ofyZ68WGp2wljJAp1R9QbG68L8LKU0agtj6Qxa1YHqLCY6gowlXJlu7k/GncRJBguFPY39eCAyxIK3W4k5Q==",
+  "success": true,
+  "projectFilePath": "H:\\2020 DATA\\Learning\\BlazorDemo\\BlazorDemo\\Todo\\Todo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DEV\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\DEV\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
